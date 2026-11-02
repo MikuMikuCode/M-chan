@@ -34,7 +34,7 @@
 
 Личный канал, через который можно со мной связаться. <br />
 <a href="https://t.me/MChan_ch">
-  <img src="https://img.shields.io/badge/@MikuMiku__Code-39C5BB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-канал M-chan" />
+  <img src="https://img.shields.io/badge/@MChan_ch-39C5BB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-канал M-chan" />
 </a>
 
 <br />
